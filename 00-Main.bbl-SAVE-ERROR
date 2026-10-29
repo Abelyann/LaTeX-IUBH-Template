@@ -1,0 +1,427 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{DueckKo:2016}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=533f5bc7044c4f67810539ca0e50a588}{%
+           family={Dueck},
+           familyi={D\bibinitperiod},
+           given={Gunter},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{533f5bc7044c4f67810539ca0e50a588}
+      \strng{fullhash}{533f5bc7044c4f67810539ca0e50a588}
+      \strng{fullhashraw}{533f5bc7044c4f67810539ca0e50a588}
+      \strng{bibnamehash}{533f5bc7044c4f67810539ca0e50a588}
+      \strng{authorbibnamehash}{533f5bc7044c4f67810539ca0e50a588}
+      \strng{authornamehash}{533f5bc7044c4f67810539ca0e50a588}
+      \strng{authorfullhash}{533f5bc7044c4f67810539ca0e50a588}
+      \strng{authorfullhashraw}{533f5bc7044c4f67810539ca0e50a588}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{auf dem AKAC-Kongress}
+      \field{title}{{Zwischen industralisierendem Downgrade und notwendigem Upgrade/Empowerment}}
+      \field{year}{2016}
+    \endentry
+    \entry{Gage:18}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b50fd03f94cdf29bd208720400d68ed1}{%
+           family={Gage},
+           familyi={G\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b50fd03f94cdf29bd208720400d68ed1}
+      \strng{fullhash}{b50fd03f94cdf29bd208720400d68ed1}
+      \strng{fullhashraw}{b50fd03f94cdf29bd208720400d68ed1}
+      \strng{bibnamehash}{b50fd03f94cdf29bd208720400d68ed1}
+      \strng{authorbibnamehash}{b50fd03f94cdf29bd208720400d68ed1}
+      \strng{authornamehash}{b50fd03f94cdf29bd208720400d68ed1}
+      \strng{authorfullhash}{b50fd03f94cdf29bd208720400d68ed1}
+      \strng{authorfullhashraw}{b50fd03f94cdf29bd208720400d68ed1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 02.06.2019}
+      \field{title}{{Introduction to Microservices}}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://blog.algorithmia.com/introduction-to-microservices/
+      \endverb
+      \verb{url}
+      \verb https://blog.algorithmia.com/introduction-to-microservices/
+      \endverb
+    \endentry
+    \entry{con:infra}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=32eb8f8d3a0762ee982a128bf63d6d9e}{%
+           family={Liebel},
+           familyi={L\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Bonn}%
+      }
+      \list{publisher}{1}{%
+        {Rheinwerk Verlag}%
+      }
+      \strng{namehash}{32eb8f8d3a0762ee982a128bf63d6d9e}
+      \strng{fullhash}{32eb8f8d3a0762ee982a128bf63d6d9e}
+      \strng{fullhashraw}{32eb8f8d3a0762ee982a128bf63d6d9e}
+      \strng{bibnamehash}{32eb8f8d3a0762ee982a128bf63d6d9e}
+      \strng{authorbibnamehash}{32eb8f8d3a0762ee982a128bf63d6d9e}
+      \strng{authornamehash}{32eb8f8d3a0762ee982a128bf63d6d9e}
+      \strng{authorfullhash}{32eb8f8d3a0762ee982a128bf63d6d9e}
+      \strng{authorfullhashraw}{32eb8f8d3a0762ee982a128bf63d6d9e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{2. Auflage}
+      \field{title}{{Skalierbare Container-Infrastrukturen}}
+      \field{year}{2019}
+    \endentry
+    \entry{sammelband}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=57f66066d804db9a6a0f631aa4beba38}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30701365ff35d71d636382710e9d1ca7}{%
+           family={Mustermann},
+           familyi={M\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Bonn}%
+      }
+      \list{publisher}{1}{%
+        {Verlag}%
+      }
+      \strng{namehash}{008de156e7cd6e5ce7fd0ad9ef124e46}
+      \strng{fullhash}{008de156e7cd6e5ce7fd0ad9ef124e46}
+      \strng{fullhashraw}{008de156e7cd6e5ce7fd0ad9ef124e46}
+      \strng{bibnamehash}{008de156e7cd6e5ce7fd0ad9ef124e46}
+      \strng{authorbibnamehash}{008de156e7cd6e5ce7fd0ad9ef124e46}
+      \strng{authornamehash}{008de156e7cd6e5ce7fd0ad9ef124e46}
+      \strng{authorfullhash}{008de156e7cd6e5ce7fd0ad9ef124e46}
+      \strng{authorfullhashraw}{008de156e7cd6e5ce7fd0ad9ef124e46}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Sammelband für IUBH}
+      \field{series}{2. Auflage}
+      \field{title}{{Artikel in Sammelband}}
+      \field{year}{2019}
+      \field{pages}{p. 9\bibrangedash 22}
+      \range{pages}{-1}
+    \endentry
+    \entry{article1}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=898430fa51d3d2d4577d08c55a82bb23}{%
+           family={Schülers},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{898430fa51d3d2d4577d08c55a82bb23}
+      \strng{fullhash}{898430fa51d3d2d4577d08c55a82bb23}
+      \strng{fullhashraw}{898430fa51d3d2d4577d08c55a82bb23}
+      \strng{bibnamehash}{898430fa51d3d2d4577d08c55a82bb23}
+      \strng{authorbibnamehash}{898430fa51d3d2d4577d08c55a82bb23}
+      \strng{authornamehash}{898430fa51d3d2d4577d08c55a82bb23}
+      \strng{authorfullhash}{898430fa51d3d2d4577d08c55a82bb23}
+      \strng{authorfullhashraw}{898430fa51d3d2d4577d08c55a82bb23}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{In: Frankfurter Allgemeine Zeitung}
+      \field{series}{Heft 20}
+      \field{title}{Zeitschriftenartikel}
+      \field{volume}{10.}
+      \field{year}{2021}
+      \field{pages}{p. 10 \bibrangedash  14}
+      \range{pages}{-1}
+    \endentry
+    \entry{Wolfram_Alpha}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=118b751432089ed6422508c776f35ba5}{%
+           family={{Wolfram Inc.}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{118b751432089ed6422508c776f35ba5}
+      \strng{fullhash}{118b751432089ed6422508c776f35ba5}
+      \strng{fullhashraw}{118b751432089ed6422508c776f35ba5}
+      \strng{bibnamehash}{118b751432089ed6422508c776f35ba5}
+      \strng{authorbibnamehash}{118b751432089ed6422508c776f35ba5}
+      \strng{authornamehash}{118b751432089ed6422508c776f35ba5}
+      \strng{authorfullhash}{118b751432089ed6422508c776f35ba5}
+      \strng{authorfullhashraw}{118b751432089ed6422508c776f35ba5}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 10.06.2021}
+      \field{title}{{Wolfram Alpha}}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://wolframalpha.com
+      \endverb
+      \verb{url}
+      \verb https://wolframalpha.com
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{DueckKo:2016}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=533f5bc7044c4f67810539ca0e50a588}{%
+           family={Dueck},
+           familyi={D\bibinitperiod},
+           given={Gunter},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{533f5bc7044c4f67810539ca0e50a588}
+      \strng{fullhash}{533f5bc7044c4f67810539ca0e50a588}
+      \strng{fullhashraw}{533f5bc7044c4f67810539ca0e50a588}
+      \strng{bibnamehash}{533f5bc7044c4f67810539ca0e50a588}
+      \strng{authorbibnamehash}{533f5bc7044c4f67810539ca0e50a588}
+      \strng{authornamehash}{533f5bc7044c4f67810539ca0e50a588}
+      \strng{authorfullhash}{533f5bc7044c4f67810539ca0e50a588}
+      \strng{authorfullhashraw}{533f5bc7044c4f67810539ca0e50a588}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{auf dem AKAC-Kongress}
+      \field{title}{{Zwischen industralisierendem Downgrade und notwendigem Upgrade/Empowerment}}
+      \field{year}{2016}
+    \endentry
+    \entry{Gage:18}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b50fd03f94cdf29bd208720400d68ed1}{%
+           family={Gage},
+           familyi={G\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b50fd03f94cdf29bd208720400d68ed1}
+      \strng{fullhash}{b50fd03f94cdf29bd208720400d68ed1}
+      \strng{fullhashraw}{b50fd03f94cdf29bd208720400d68ed1}
+      \strng{bibnamehash}{b50fd03f94cdf29bd208720400d68ed1}
+      \strng{authorbibnamehash}{b50fd03f94cdf29bd208720400d68ed1}
+      \strng{authornamehash}{b50fd03f94cdf29bd208720400d68ed1}
+      \strng{authorfullhash}{b50fd03f94cdf29bd208720400d68ed1}
+      \strng{authorfullhashraw}{b50fd03f94cdf29bd208720400d68ed1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 02.06.2019}
+      \field{title}{{Introduction to Microservices}}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://blog.algorithmia.com/introduction-to-microservices/
+      \endverb
+      \verb{url}
+      \verb https://blog.algorithmia.com/introduction-to-microservices/
+      \endverb
+    \endentry
+    \entry{con:infra}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=32eb8f8d3a0762ee982a128bf63d6d9e}{%
+           family={Liebel},
+           familyi={L\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Bonn}%
+      }
+      \list{publisher}{1}{%
+        {Rheinwerk Verlag}%
+      }
+      \strng{namehash}{32eb8f8d3a0762ee982a128bf63d6d9e}
+      \strng{fullhash}{32eb8f8d3a0762ee982a128bf63d6d9e}
+      \strng{fullhashraw}{32eb8f8d3a0762ee982a128bf63d6d9e}
+      \strng{bibnamehash}{32eb8f8d3a0762ee982a128bf63d6d9e}
+      \strng{authorbibnamehash}{32eb8f8d3a0762ee982a128bf63d6d9e}
+      \strng{authornamehash}{32eb8f8d3a0762ee982a128bf63d6d9e}
+      \strng{authorfullhash}{32eb8f8d3a0762ee982a128bf63d6d9e}
+      \strng{authorfullhashraw}{32eb8f8d3a0762ee982a128bf63d6d9e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{2. Auflage}
+      \field{title}{{Skalierbare Container-Infrastrukturen}}
+      \field{year}{2019}
+    \endentry
+    \entry{sammelband}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=57f66066d804db9a6a0f631aa4beba38}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30701365ff35d71d636382710e9d1ca7}{%
+           family={Mustermann},
+           familyi={M\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Bonn}%
+      }
+      \list{publisher}{1}{%
+        {Verlag}%
+      }
+      \strng{namehash}{008de156e7cd6e5ce7fd0ad9ef124e46}
+      \strng{fullhash}{008de156e7cd6e5ce7fd0ad9ef124e46}
+      \strng{fullhashraw}{008de156e7cd6e5ce7fd0ad9ef124e46}
+      \strng{bibnamehash}{008de156e7cd6e5ce7fd0ad9ef124e46}
+      \strng{authorbibnamehash}{008de156e7cd6e5ce7fd0ad9ef124e46}
+      \strng{authornamehash}{008de156e7cd6e5ce7fd0ad9ef124e46}
+      \strng{authorfullhash}{008de156e7cd6e5ce7fd0ad9ef124e46}
+      \strng{authorfullhashraw}{008de156e7cd6e5ce7fd0ad9ef124e46}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Sammelband für IUBH}
+      \field{series}{2. Auflage}
+      \field{title}{{Artikel in Sammelband}}
+      \field{year}{2019}
+      \field{pages}{p. 9\bibrangedash 22}
+      \range{pages}{-1}
+    \endentry
+    \entry{article1}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=898430fa51d3d2d4577d08c55a82bb23}{%
+           family={Schülers},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{898430fa51d3d2d4577d08c55a82bb23}
+      \strng{fullhash}{898430fa51d3d2d4577d08c55a82bb23}
+      \strng{fullhashraw}{898430fa51d3d2d4577d08c55a82bb23}
+      \strng{bibnamehash}{898430fa51d3d2d4577d08c55a82bb23}
+      \strng{authorbibnamehash}{898430fa51d3d2d4577d08c55a82bb23}
+      \strng{authornamehash}{898430fa51d3d2d4577d08c55a82bb23}
+      \strng{authorfullhash}{898430fa51d3d2d4577d08c55a82bb23}
+      \strng{authorfullhashraw}{898430fa51d3d2d4577d08c55a82bb23}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{In: Frankfurter Allgemeine Zeitung}
+      \field{series}{Heft 20}
+      \field{title}{Zeitschriftenartikel}
+      \field{volume}{10.}
+      \field{year}{2021}
+      \field{pages}{p. 10 \bibrangedash  14}
+      \range{pages}{-1}
+    \endentry
+    \entry{Wolfram_Alpha}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=118b751432089ed6422508c776f35ba5}{%
+           family={{Wolfram Inc.}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{118b751432089ed6422508c776f35ba5}
+      \strng{fullhash}{118b751432089ed6422508c776f35ba5}
+      \strng{fullhashraw}{118b751432089ed6422508c776f35ba5}
+      \strng{bibnamehash}{118b751432089ed6422508c776f35ba5}
+      \strng{authorbibnamehash}{118b751432089ed6422508c776f35ba5}
+      \strng{authornamehash}{118b751432089ed6422508c776f35ba5}
+      \strng{authorfullhash}{118b751432089ed6422508c776f35ba5}
+      \strng{authorfullhashraw}{118b751432089ed6422508c776f35ba5}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 10.06.2021}
+      \field{title}{{Wolfram Alpha}}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://wolframalpha.com
+      \endverb
+      \verb{url}
+      \verb https://wolframalpha.com
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{siegristBernoulli}
+  \missing{siegristExpectation}
+\endrefsection
+\endinput
+
